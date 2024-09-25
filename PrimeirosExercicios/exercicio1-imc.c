@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main()
-{
+int main(void) {
     float peso, altura, imc;
     printf("Digite o peso e a altura \n");
     scanf("%f %f", &peso, &altura);
