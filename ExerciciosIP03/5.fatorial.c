@@ -12,5 +12,5 @@ int main(void) {
             }
         result *= i;
     }
-    printf("\nFatorial de %d: %d\n", numF, result);
+    printf("\nFatorial de %d = %d\n", numF, result);
 }
